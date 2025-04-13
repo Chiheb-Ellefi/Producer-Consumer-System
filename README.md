@@ -78,14 +78,6 @@ To ensure data consistency in concurrent environments, three versions of the sys
 
 ---
 
-## 📬 Future Improvements
-
-- Add topic replication for fault tolerance
-- Introduce persistence strategies (compression, partitioning)
-- Create a simple web-based monitoring interface
-
----
-
 ## 📜 License
 
 This project is part of an academic assignment and is open for educational use.
